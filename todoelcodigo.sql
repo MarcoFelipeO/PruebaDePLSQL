@@ -190,4 +190,5 @@ WHERE e.fecha_contratacion BETWEEN '2010-01-01' AND '2023-12-31'
 		ahora al cambiar esto es mas rapido, por que las tablas ya estan mezcladas.
         
         Todos estos aspectos hacen que mejore la calidad y legibilidad en la consulta
+        
   */
